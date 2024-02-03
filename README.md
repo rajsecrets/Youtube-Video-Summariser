@@ -1,4 +1,4 @@
-# Youtube-Video-Summariser
+# Youtube-Video-Summariser 🌟
 
 ![image](https://github.com/rajsecrets/Youtube-Video-Summariser/assets/131753845/8959f70e-706e-4cfd-8dd3-03c5d3aef418)
 
